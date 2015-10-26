@@ -1,7 +1,7 @@
 % This file was created with JabRef 2.8.1.
 % Encoding: Cp1252
 
-@CONFERENCE{Goel2007,
+@INPROCEEDINGS{Goel2007,
   author = {Goel, R. and Kulkarni, M. D. and Naik, N. K.},
   title = {Stress Wave Attenuation during Ballistic Impact on a Ceramic Target},
   booktitle = {16th International Conference on Composite Materials},
@@ -23,11 +23,13 @@
   pages = {30-37},
   number = {2},
   month = {March},
+  doi = {10.1016/j.ijmecsci.2014.03.020},
   owner = {Mandar},
-  timestamp = {2015.10.23}
+  timestamp = {2015.10.23},
+  url = {http://www.sciencedirect.com/science/article/pii/S0020740314001076}
 }
 
-@CONFERENCE{Kulkarni2015b,
+@INPROCEEDINGS{Kulkarni2015b,
   author = {Kulkarni, M. D. and Canfield, R. A.},
   title = {Reliability Based Structural Design using Continuum Sensitivity Analysis},
   booktitle = {56th AIAA Structures, Structural Dynamics and Materials Conference},
@@ -40,7 +42,7 @@
   timestamp = {2014.05.24}
 }
 
-@CONFERENCE{Kulkarni2015,
+@INPROCEEDINGS{Kulkarni2015,
   author = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
   title = {Nonintrusive Continuum Sensitivity Analysis for Aerodynamic Shape
 	Optimization},
@@ -54,7 +56,7 @@
   timestamp = {2014.05.24}
 }
 
-@CONFERENCE{Kulkarni2015a,
+@INPROCEEDINGS{Kulkarni2015a,
   author = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
   title = {Discrete Adjoint Formulation using Local Continuum Sensitivity Equations},
   booktitle = {56th AIAA Structures, Structural Dynamics and Materials Conference},
@@ -78,7 +80,7 @@
   timestamp = {2014.05.24}
 }
 
-@CONFERENCE{Kulkarni2014b,
+@INPROCEEDINGS{Kulkarni2014b,
   author = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
   title = {Nonintrusive Continuum Sensitivity Analysis for Aerodynamic Shape
 	Optimization},
@@ -92,7 +94,7 @@
   timestamp = {2014.05.24}
 }
 
-@CONFERENCE{Kulkarni2014,
+@INPROCEEDINGS{Kulkarni2014,
   author = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J. and Alyahak,
 	E. J.},
   title = {Integration of Geometric Sensitivity and Spatial Gradient Reconstruction
@@ -128,11 +130,13 @@
   pages = {944-951},
   number = {2},
   month = {January},
+  doi = {10.1016/j.compstruct.2010.06.027},
   owner = {Mandar},
-  timestamp = {2015.10.23}
+  timestamp = {2015.10.23},
+  url = {http://www.sciencedirect.com/science/article/pii/S0263822310002369}
 }
 
-@CONFERENCE{Kulkarni2007,
+@INPROCEEDINGS{Kulkarni2007,
   author = {Kulkarni, M. D. and Goel, R. and Naik, N. K.},
   title = {Effect of Back Pressure on Impact Behavior of Composites},
   booktitle = {4th International Conference on Theoretical, Applied, Computational
@@ -145,7 +149,7 @@
   timestamp = {2014.05.24}
 }
 
-@CONFERENCE{Kulkarni2010,
+@INPROCEEDINGS{Kulkarni2010,
   author = {Kulkarni, M. D. and Kumar, G. and Mujumdar, P. M. and Joshi, A.},
   title = {Active Control of Vibration Modes of Wing Box by Piezoelectric Stack
 	Actuators},
@@ -159,7 +163,7 @@
   timestamp = {2014.05.24}
 }
 
-@CONFERENCE{Kulkarni2013,
+@INPROCEEDINGS{Kulkarni2013,
   author = {Kulkarni, M. D. and Patil, M. J. and Snyder, R. D.},
   title = {Reduced Order Model for Unsteady Aerodynamics of Flapping Wing Micro
 	Air Vehicle in Hover},
@@ -182,8 +186,10 @@
   pages = {103504},
   number = {10},
   month = {May},
+  doi = {10.1063/1.2921971},
   owner = {Mandar},
-  timestamp = {2015.10.23}
+  timestamp = {2015.10.23},
+  url = {http://dx.doi.org/10.1063/1.2921971}
 }
 
 @comment{jabref-meta: selector_keywords:}
