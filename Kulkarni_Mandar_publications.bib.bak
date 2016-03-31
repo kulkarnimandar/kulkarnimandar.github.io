@@ -1,195 +1,239 @@
-% This file was created with JabRef 2.8.1.
+% This file was created with JabRef 2.10.
 % Encoding: Cp1252
 
-@INPROCEEDINGS{Goel2007,
-  author = {Goel, R. and Kulkarni, M. D. and Naik, N. K.},
-  title = {Stress Wave Attenuation during Ballistic Impact on a Ceramic Target},
-  booktitle = {16th International Conference on Composite Materials},
-  year = {2007},
-  address = {Kyoto, Japan},
-  month = {July},
-  organization = {ICCM},
-  owner = {Mandar},
-  timestamp = {2014.05.24}
+
+@InProceedings{Goel2007,
+  Title                    = {Stress Wave Attenuation during Ballistic Impact on a Ceramic Target},
+  Author                   = {Goel, R. and Kulkarni, M. D. and Naik, N. K.},
+  Booktitle                = {16th International Conference on Composite Materials},
+  Year                     = {2007},
+
+  Address                  = {Kyoto, Japan},
+  Month                    = {July},
+  Organization             = {ICCM},
+
+  Owner                    = {Mandar},
+  Timestamp                = {2014.05.24}
 }
 
-@ARTICLE{2014,
-  author = {Goel, R. and Kulkarni, M. D. and Pandya, K. S. and Naik, N. K.},
-  title = {Stress Wave Micro–Macro Attenuation in Ceramic Plates Made of Tiles
-	during Ballistic Impact},
-  journal = {International Journal of Mechanical Sciences},
-  year = {2014},
-  volume = {83},
-  pages = {30-37},
-  number = {2},
-  month = {March},
-  doi = {10.1016/j.ijmecsci.2014.03.020},
-  owner = {Mandar},
-  timestamp = {2015.10.23},
-  url = {http://www.sciencedirect.com/science/article/pii/S0020740314001076}
+@Article{2014,
+  Title                    = {Stress Wave Micro Macro Attenuation in Ceramic Plates Made of Tiles during Ballistic Impact},
+  Author                   = {Goel, R. and Kulkarni, M. D. and Pandya, K. S. and Naik, N. K.},
+  Journal                  = {International Journal of Mechanical Sciences},
+  Year                     = {2014},
+
+  Month                    = {March},
+  Number                   = {2},
+  Pages                    = {30-37},
+  Volume                   = {83},
+
+  Doi                      = {10.1016/j.ijmecsci.2014.03.020},
+  Owner                    = {Mandar},
+  Timestamp                = {2015.10.23},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0020740314001076}
 }
 
-@INPROCEEDINGS{Kulkarni2015b,
-  author = {Kulkarni, M. D. and Canfield, R. A.},
-  title = {Reliability Based Structural Design using Continuum Sensitivity Analysis},
-  booktitle = {56th AIAA Structures, Structural Dynamics and Materials Conference},
-  year = {2015},
-  number = {AIAA 2014-0458},
-  address = {Kissimmee, FL},
-  month = {January},
-  organization = {AIAA},
-  owner = {Mandar},
-  timestamp = {2014.05.24}
+@InProceedings{Kulkarni2015b,
+  Title                    = {Reliability Based Structural Design using Continuum Sensitivity Analysis},
+  Author                   = {Kulkarni, M. D. and Canfield, R. A.},
+  Booktitle                = {56th AIAA Structures, Structural Dynamics and Materials Conference},
+  Year                     = {2015},
+
+  Address                  = {Kissimmee, FL},
+  Month                    = {January},
+  Number                   = {AIAA 2014-0458},
+  Organization             = {AIAA},
+
+  Owner                    = {Mandar},
+  Timestamp                = {2014.05.24}
 }
 
-@INPROCEEDINGS{Kulkarni2015,
-  author = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
-  title = {Nonintrusive Continuum Sensitivity Analysis for Aerodynamic Shape
-	Optimization},
-  booktitle = {16th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference},
-  year = {2015},
-  number = {AIAA 2014-3237},
-  address = {Dallas, TX},
-  month = {June},
-  organization = {AIAA},
-  owner = {Mandar},
-  timestamp = {2014.05.24}
+@Article{Kulkarni2016b,
+  Title                    = {Nonintrusive Continuum Sensitivity Analysis for Fluid Applications},
+  Author                   = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
+  Journal                  = {AIAA Journal},
+  Year                     = {2016},
+  Note                     = {Manuscript in preparation},
+
+  Owner                    = {Mandar},
+  Timestamp                = {2016.03.08}
 }
 
-@INPROCEEDINGS{Kulkarni2015a,
-  author = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
-  title = {Discrete Adjoint Formulation using Local Continuum Sensitivity Equations},
-  booktitle = {56th AIAA Structures, Structural Dynamics and Materials Conference},
-  year = {2015},
-  number = {AIAA 2014-0138},
-  address = {Kissimmee, FL},
-  month = {January},
-  organization = {AIAA},
-  owner = {Mandar},
-  timestamp = {2014.05.24}
+@Article{Kulkarni2016c,
+  Title                    = {Nonintrusive Continuum Sensitivity Analysis for Aeroelasticity Applications},
+  Author                   = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
+  Journal                  = {Structures and Multidisciplinary Optimization},
+  Year                     = {2016},
+  Note                     = {Manuscript in preparation},
+
+  Owner                    = {Mandar},
+  Timestamp                = {2016.03.08}
 }
 
-@ARTICLE{Kulkarni2015d,
-  author = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
-  title = {Nonintrusive Continuum Sensitivity Analysis for Three Dimensional
-	Structures: Direct and Adjoint Formulations},
-  journal = {Structures and Multidisciplinary Optimization},
-  year = {2015},
-  note = {Manuscript in preparation},
-  owner = {Mandar},
-  timestamp = {2014.05.24}
+@Article{Kulkarni2016d,
+  Title                    = {Nonintrusive Continuum Sensitivity Analysis for Three Dimensional Structures: Direct and Adjoint Formulations},
+  Author                   = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
+  Journal                  = {Structures and Multidisciplinary Optimization},
+  Year                     = {2016},
+  Note                     = {Manuscript in preparation},
+
+  Owner                    = {Mandar},
+  Timestamp                = {2014.05.24}
 }
 
-@INPROCEEDINGS{Kulkarni2014b,
-  author = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
-  title = {Nonintrusive Continuum Sensitivity Analysis for Aerodynamic Shape
-	Optimization},
-  booktitle = {15th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference},
-  year = {2014},
-  number = {AIAA 2014-2043},
-  address = {Atlanta, GA},
-  month = {June},
-  organization = {AIAA},
-  owner = {Mandar},
-  timestamp = {2014.05.24}
+@InProceedings{Kulkarni2015,
+  Title                    = {Nonintrusive Continuum Sensitivity Analysis for Aerodynamic Shape Optimization},
+  Author                   = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
+  Booktitle                = {16th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference},
+  Year                     = {2015},
+
+  Address                  = {Dallas, TX},
+  Month                    = {June},
+  Number                   = {AIAA 2014-3237},
+  Organization             = {AIAA},
+
+  Owner                    = {Mandar},
+  Timestamp                = {2014.05.24}
 }
 
-@INPROCEEDINGS{Kulkarni2014,
-  author = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J. and Alyahak,
-	E. J.},
-  title = {Integration of Geometric Sensitivity and Spatial Gradient Reconstruction
-	for Aeroelastic Shape Optimization},
-  booktitle = {10th AIAA Multidisciplinary Design Optimization Conference},
-  year = {2014},
-  number = {AIAA 2014-0470},
-  address = {National Harbor, MD},
-  month = {January},
-  organization = {AIAA},
-  owner = {Mandar},
-  timestamp = {2014.05.24}
+@InProceedings{Kulkarni2015a,
+  Title                    = {Discrete Adjoint Formulation using Local Continuum Sensitivity Equations},
+  Author                   = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
+  Booktitle                = {56th AIAA Structures, Structural Dynamics and Materials Conference},
+  Year                     = {2015},
+
+  Address                  = {Kissimmee, FL},
+  Month                    = {January},
+  Number                   = {AIAA 2014-0138},
+  Organization             = {AIAA},
+
+  Owner                    = {Mandar},
+  Timestamp                = {2014.05.24}
 }
 
-@ARTICLE{Kulkarni2015c,
-  author = {Kulkarni, M. D. and Cross, D. M. and Canfield, R. A.},
-  title = {Discrete Adjoint Formulation using Local Continuum Sensitivity Equations},
-  journal = {AIAA Journal},
-  year = {2015},
-  note = {Article in press},
-  organization = {AIAA},
-  owner = {Mandar},
-  timestamp = {2014.05.24}
+@InProceedings{Kulkarni2014b,
+  Title                    = {Nonintrusive Continuum Sensitivity Analysis for Aerodynamic Shape Optimization},
+  Author                   = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
+  Booktitle                = {15th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference},
+  Year                     = {2014},
+
+  Address                  = {Atlanta, GA},
+  Month                    = {June},
+  Number                   = {AIAA 2014-2043},
+  Organization             = {AIAA},
+
+  Owner                    = {Mandar},
+  Timestamp                = {2014.05.24}
 }
 
-@ARTICLE{Kulkarni2011,
-  author = {Kulkarni, M. D. and Goel, R. and Naik, N. K.},
-  title = {Effect of Back Pressure on Impact and Compression-after-Impact Characteristics
-	of Composites},
-  journal = {Composite Structures},
-  year = {2011},
-  volume = {93},
-  pages = {944-951},
-  number = {2},
-  month = {January},
-  doi = {10.1016/j.compstruct.2010.06.027},
-  owner = {Mandar},
-  timestamp = {2015.10.23},
-  url = {http://www.sciencedirect.com/science/article/pii/S0263822310002369}
+@InProceedings{Kulkarni2014,
+  Title                    = {Integration of Geometric Sensitivity and Spatial Gradient Reconstruction for Aeroelastic Shape Optimization},
+  Author                   = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J. and Alyahak, E. J.},
+  Booktitle                = {10th AIAA Multidisciplinary Design Optimization Conference},
+  Year                     = {2014},
+
+  Address                  = {National Harbor, MD},
+  Month                    = {January},
+  Number                   = {AIAA 2014-0470},
+  Organization             = {AIAA},
+
+  Owner                    = {Mandar},
+  Timestamp                = {2014.05.24}
 }
 
-@INPROCEEDINGS{Kulkarni2007,
-  author = {Kulkarni, M. D. and Goel, R. and Naik, N. K.},
-  title = {Effect of Back Pressure on Impact Behavior of Composites},
-  booktitle = {4th International Conference on Theoretical, Applied, Computational
-	and Experimental Mechanics},
-  year = {2007},
-  address = {Kharagpur, India},
-  month = {December},
-  organization = {IIT Kharagpur},
-  owner = {Mandar},
-  timestamp = {2014.05.24}
+@Article{Kulkarni2016a,
+  Title                    = {Discrete Adjoint Formulation for Continuum Sensitivity Analysis},
+  Author                   = {Kulkarni, M. D. and Cross, D. M. and Canfield, R. A.},
+  Journal                  = {AIAA Journal},
+  Year                     = {2016},
+
+  Month                    = {February},
+  Number                   = {2},
+  Pages                    = {758-766},
+  Volume                   = {54},
+
+  Doi                      = {10.2514/1.J053827},
+  Organization             = {AIAA},
+  Owner                    = {Mandar},
+  Timestamp                = {2014.05.24}
 }
 
-@INPROCEEDINGS{Kulkarni2010,
-  author = {Kulkarni, M. D. and Kumar, G. and Mujumdar, P. M. and Joshi, A.},
-  title = {Active Control of Vibration Modes of Wing Box by Piezoelectric Stack
-	Actuators},
-  booktitle = {51st AIAA Structures, Structural Dynamics and Materials Conference},
-  year = {2010},
-  number = {AIAA 2010-2949},
-  address = {Orlando, FL},
-  month = {April},
-  organization = {AIAA},
-  owner = {Mandar},
-  timestamp = {2014.05.24}
+@Article{Kulkarni2011,
+  Title                    = {Effect of Back Pressure on Impact and Compression-after-Impact Characteristics of Composites},
+  Author                   = {Kulkarni, M. D. and Goel, R. and Naik, N. K.},
+  Journal                  = {Composite Structures},
+  Year                     = {2011},
+
+  Month                    = {January},
+  Number                   = {2},
+  Pages                    = {944-951},
+  Volume                   = {93},
+
+  Doi                      = {10.1016/j.compstruct.2010.06.027},
+  Owner                    = {Mandar},
+  Timestamp                = {2015.10.23},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0263822310002369}
 }
 
-@INPROCEEDINGS{Kulkarni2013,
-  author = {Kulkarni, M. D. and Patil, M. J. and Snyder, R. D.},
-  title = {Reduced Order Model for Unsteady Aerodynamics of Flapping Wing Micro
-	Air Vehicle in Hover},
-  booktitle = {54th AIAA Structures, Structural Dynamics and Materials Conference},
-  year = {2013},
-  number = {AIAA 2014-1645},
-  address = {Boston, MA},
-  month = {January},
-  organization = {AIAA},
-  owner = {Mandar},
-  timestamp = {2014.05.24}
+@InProceedings{Kulkarni2007,
+  Title                    = {Effect of Back Pressure on Impact Behavior of Composites},
+  Author                   = {Kulkarni, M. D. and Goel, R. and Naik, N. K.},
+  Booktitle                = {4th International Conference on Theoretical, Applied, Computational and Experimental Mechanics},
+  Year                     = {2007},
+
+  Address                  = {Kharagpur, India},
+  Month                    = {December},
+  Organization             = {IIT Kharagpur},
+
+  Owner                    = {Mandar},
+  Timestamp                = {2014.05.24}
 }
 
-@ARTICLE{2008,
-  author = {Naik, N. K. and Goel, R. and Kulkarni, M. D.},
-  title = {Stress Wave Attenuation in Ceramic Plates},
-  journal = {Journal of Applied Physics},
-  year = {2008},
-  volume = {104},
-  pages = {103504},
-  number = {10},
-  month = {May},
-  doi = {10.1063/1.2921971},
-  owner = {Mandar},
-  timestamp = {2015.10.23},
-  url = {http://dx.doi.org/10.1063/1.2921971}
+@InProceedings{Kulkarni2010,
+  Title                    = {Active Control of Vibration Modes of Wing Box by Piezoelectric Stack Actuators},
+  Author                   = {Kulkarni, M. D. and Kumar, G. and Mujumdar, P. M. and Joshi, A.},
+  Booktitle                = {51st AIAA Structures, Structural Dynamics and Materials Conference},
+  Year                     = {2010},
+
+  Address                  = {Orlando, FL},
+  Month                    = {April},
+  Number                   = {AIAA 2010-2949},
+  Organization             = {AIAA},
+
+  Owner                    = {Mandar},
+  Timestamp                = {2014.05.24}
+}
+
+@InProceedings{Kulkarni2013,
+  Title                    = {Reduced Order Model for Unsteady Aerodynamics of Flapping Wing Micro Air Vehicle in Hover},
+  Author                   = {Kulkarni, M. D. and Patil, M. J. and Snyder, R. D.},
+  Booktitle                = {54th AIAA Structures, Structural Dynamics and Materials Conference},
+  Year                     = {2013},
+
+  Address                  = {Boston, MA},
+  Month                    = {January},
+  Number                   = {AIAA 2014-1645},
+  Organization             = {AIAA},
+
+  Owner                    = {Mandar},
+  Timestamp                = {2014.05.24}
+}
+
+@Article{2008,
+  Title                    = {Stress Wave Attenuation in Ceramic Plates},
+  Author                   = {Naik, N. K. and Goel, R. and Kulkarni, M. D.},
+  Journal                  = {Journal of Applied Physics},
+  Year                     = {2008},
+
+  Month                    = {May},
+  Number                   = {10},
+  Pages                    = {103504},
+  Volume                   = {104},
+
+  Doi                      = {10.1063/1.2921971},
+  Owner                    = {Mandar},
+  Timestamp                = {2015.10.23},
+  Url                      = {http://dx.doi.org/10.1063/1.2921971}
 }
 
 @comment{jabref-meta: selector_keywords:}
