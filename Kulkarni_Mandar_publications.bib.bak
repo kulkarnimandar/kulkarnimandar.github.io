@@ -71,9 +71,9 @@
 }
 
 @Article{Kulkarni2016d,
-  Title                    = {Nonintrusive Continuum Sensitivity Analysis for Three Dimensional Structures: Direct and Adjoint Formulations},
+  Title                    = {Nonintrusive Continuum Sensitivity Analysis for Two and Three Dimensional Structures: Adjoint Formulation},
   Author                   = {Kulkarni, M. D. and Canfield, R. A. and Patil, M. J.},
-  Journal                  = {Structures and Multidisciplinary Optimization},
+  Journal                  = {AIAA Journal},
   Year                     = {2016},
   Note                     = {Manuscript in preparation},
 
